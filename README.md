@@ -23,3 +23,15 @@ The **dataset with diatom images**, used in the evaluation, is available at:
 📂 [ADIAC Dataset](https://websites.rbge.org.uk/ADIAC/pubdat/downloads/)  
 
 
+## 👥 Authors & Affiliation  
+
+**Felipe A. Medécigo-Cabriales** *(Eng.)* ~ ![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0619--3290-green?logo=orcid)  
+**Francisco Alejandro Alaffita-Hernández** *(M.Sc.)* ~ ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7971--6356-green?logo=orcid)  
+**Beatris Adriana Escobedo-Trujillo** *(Ph.D.)* ~ ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8937--3019-green?logo=orcid)  
+
+🔬 **Affiliation:**  
+- **Maestría en Ciencias en Tecnología Energética (MaCTE)**  
+- **Centro de Investigación en Recursos Energéticos y Sustentables (CIRES)**  
+- **Universidad Veracruzana (UV)**  
+
+
