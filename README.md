@@ -30,8 +30,8 @@ The **dataset with diatom images**, used in the evaluation, is available at:
 **Ph.D. Beatris Adriana Escobedo-Trujillo**  ~ ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8937--3019-green?logo=orcid)  
 
 🔬 **Affiliation:**  
-- **Maestría en Ciencias en Tecnología Energética (MaCTE)**  
-- **Centro de Investigación en Recursos Energéticos y Sustentables (CIRES)**  
-- **Universidad Veracruzana (UV)**  
+ **Maestría en Ciencias en Tecnología Energética (MaCTE)**  
+ **Centro de Investigación en Recursos Energéticos y Sustentables (CIRES)**  
+ **Universidad Veracruzana (UV)**  
 
 
