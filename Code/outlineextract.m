@@ -45,7 +45,9 @@
 %    "A Parametric Function for Fitting Simple Closed Curves: The ParamFit Algorithm", Medécigo-Cabriales et al.
 % =========================================================================
 
-
+clc
+clear
+close all
 %% Extracts the largest contour from an image
 % This script processes an image to extract its largest contour by:
 %   1. Converting the image to grayscale (if necessary)
