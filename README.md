@@ -25,9 +25,9 @@ The **dataset with diatom images**, used in the evaluation, is available at:
 
 ## 👥 Authors & Affiliation  
 
-**Felipe A. Medécigo-Cabriales** *(Eng.)* ~ ![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0619--3290-green?logo=orcid)  
-**Francisco Alejandro Alaffita-Hernández** *(M.Sc.)* ~ ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7971--6356-green?logo=orcid)  
-**Beatris Adriana Escobedo-Trujillo** *(Ph.D.)* ~ ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8937--3019-green?logo=orcid)  
+**Eng. Felipe A. Medécigo-Cabriales**  ~ ![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0619--3290-green?logo=orcid)  
+**M.Sc. Francisco Alejandro Alaffita-Hernández**  ~ ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7971--6356-green?logo=orcid)  
+**Ph.D. Beatris Adriana Escobedo-Trujillo**  ~ ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8937--3019-green?logo=orcid)  
 
 🔬 **Affiliation:**  
 - **Maestría en Ciencias en Tecnología Energética (MaCTE)**  
