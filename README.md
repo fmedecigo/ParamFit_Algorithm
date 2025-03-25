@@ -13,6 +13,21 @@ ParamFit is an algorithm for outline fitting based on a parametric function desi
 - Implementation of the optimization algorithm.  
 - Test data for different applications.  
 
+## 🛠 Reproduction Instructions  
+
+The functions and scripts included in this repository are necessary to reproduce the results presented in this work. Specifically, the main executable scripts are:  
+
+1. **`diatomsfitting.m`**  
+2. **`seedsfitting.m`**  
+3. **`planarcurvesfitting.m`**  
+
+The **`.csv`** and **`.xlsx`** files containing the point sets for each application described in this work can be found in their corresponding folders within the repository. To recreate the results, these files must be downloaded, and their paths must be properly updated in the scripts.  
+
+For planar curves, the **`PlanarCurves`** folder contains additional scripts to generate point sets for various parametric curves.  
+
+If you wish to apply the algorithm to a different image, the **`outlineextract`** script is available to extract the object's outline.  
+
+⚠ **Ensure that all required functions are downloaded into the same directory before running the scripts.**  
 
 ## Related Resources  
 
